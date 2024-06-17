@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-image: url('logo.svg'); /* Убедитесь, что путь к логотипу корректный */
+  background-image: url('logo.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
