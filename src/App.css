@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-image: url('logo.svg'); /* Убедитесь, что путь к логотипу корректный */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.weather-container {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 300px;
+}
